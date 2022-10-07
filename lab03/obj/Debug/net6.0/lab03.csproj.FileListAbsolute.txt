@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/bin/Debug/net6.0/lab03
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/bin/Debug/net6.0/lab03.deps.json
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/bin/Debug/net6.0/lab03.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/bin/Debug/net6.0/lab03.dll
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/bin/Debug/net6.0/lab03.pdb
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/obj/Debug/net6.0/lab03.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/obj/Debug/net6.0/lab03.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/obj/Debug/net6.0/lab03.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/obj/Debug/net6.0/lab03.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/obj/Debug/net6.0/lab03.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/obj/Debug/net6.0/lab03.dll
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/obj/Debug/net6.0/refint/lab03.dll
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/obj/Debug/net6.0/lab03.pdb
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/obj/Debug/net6.0/lab03.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab03_Storm/lab03/obj/Debug/net6.0/ref/lab03.dll
